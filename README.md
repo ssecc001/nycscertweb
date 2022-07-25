@@ -189,6 +189,7 @@ public class SuperArray
   }//end grow()
 
 }//end class
+```
 
 ## METHODS
 ### Here is how to create a Bar Graph
@@ -225,7 +226,7 @@ public class BarGraphify {
         
       }
 } 
-
+```
 ## DS
 ### Here is how to Code for ArrayList
 ```
@@ -394,11 +395,7 @@ public class AlPractice{
 
     // Uncomment these to test removeValue
     al.add(5);
-    al.add(10);
-    al.add(5);
-    al.add(13);
     al.set(2,5);
-    al.set(3,5);
     System.out.println(al); // needed al, not a
     removeValue(al,5);
     System.out.println(al); // needed al, not a
@@ -415,3 +412,4 @@ public class AlPractice{
   }
 
 } 
+```
