@@ -1,4 +1,4 @@
-# rachel's portfolio
+# Susie's portfolio
 ---
 ---
 ## PROGRAMMING
