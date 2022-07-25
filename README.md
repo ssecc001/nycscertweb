@@ -1,8 +1,13 @@
 # Susie's portfolio
 ---
 ---
+
+
+![My Image](![BE-Computer-Science](https://user-images.githubusercontent.com/46972076/180851562-9c072793-fcc4-4382-b16b-86eeff62a358.png)
+)
+
 ## PROGRAMMING
-### method to create find play Nim
+### method to create play Nim
 ```
 
 import java.io.*;
