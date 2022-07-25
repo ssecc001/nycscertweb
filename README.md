@@ -1,4 +1,4 @@
-# nycscertweb
+# rachel's page
 ## buggy Code for index traversing merge method:
 ```
       public ArrayList<Integer> merge(ArrayList<Integer> list1,
