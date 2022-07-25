@@ -1,5 +1,6 @@
 # rachel's portfolio
-
+---
+---
 ## PROGRAMMING
 ### method to create a recursive fence post of size n
 ```
@@ -39,7 +40,7 @@ public static String fenceR( int n ){
 }
 ```
 
-
+---
 ## DATA STRUCTURES
 ### method to recursively binary search
 ```
@@ -64,12 +65,12 @@ public int binarySearchRecursive(int value, int lowIndex, int highIndex) {
   return -1;
 }
 ```
-
+---
 ## METHODS
 ### lesson plan for if/else conditionals
 [IF/ELSE Conditionals](https://replit.com/@RACHELKAUFMAN/cohort-3-summer-work-rkaufman8#methods/01_lessonplan.pdf)
 
-
+---
 ## TO DO
 - [x] create my page
 - [ ] get CS license
