@@ -3,7 +3,7 @@
 ---
 
 
-![My Image](![BE-Computer-Science](https://user-images.githubusercontent.com/46972076/180851562-9c072793-fcc4-4382-b16b-86eeff62a358.png)
+(![BE-Computer-Science](https://user-images.githubusercontent.com/46972076/180851562-9c072793-fcc4-4382-b16b-86eeff62a358.png)
 )
 
 ## PROGRAMMING
